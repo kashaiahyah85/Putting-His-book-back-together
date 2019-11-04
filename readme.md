@@ -1,3 +1,5 @@
+# Introduction 1; Purpose and Inspiration
+
 It is warned in 2 Peter 3:
 
     "Beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years,
